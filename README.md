@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 ## 📊 Activity Graph
 
-[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=ShreyanshMishra1202&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShreyanshMishra1202&theme=github-dark&bg_color=0d1117&color=58a6ff&line=30363d&point=58a6ff&area=true)](https://github.com/ShreyanshMishra1202)
 
 ---
 
