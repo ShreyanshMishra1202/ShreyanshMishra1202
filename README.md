@@ -2,11 +2,12 @@
 
 <div align="center">
 
-### Full Stack Developer | Problem Solver | Tech Enthusiast
+### Aspiring Software Engineer | Full Stack MERN Developer | GATE CSE Aspirant
 
 [![GitHub followers](https://img.shields.io/github/followers/ShreyanshMishra1202?label=Follow&style=social)](https://github.com/ShreyanshMishra1202)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=flat&logo=world)](https://shreyansh.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyansh-mishra-cse/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shreyanshmishra1202@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ShreyanshMishra1202)
 
 </div>
 
@@ -14,13 +15,15 @@
 
 ## 🚀 About Me
 
-I'm a passionate Full Stack Developer with a strong foundation in building scalable web applications and solving complex problems through code. I thrive in collaborative environments and am committed to continuous learning and professional growth.
+I am a **B.Tech Computer Science student** with a strong interest in software development, problem-solving, and system design. I have **3+ years of academic and project-based programming experience** building full-stack web applications using MERN and MySQL. Alongside development, I am actively preparing for **GATE CSE** and continuously improving my data structures, algorithms, and computer science fundamentals.
 
-- 💻 Specialized in **Full Stack Development**
-- 🔍 Experienced with **Web Technologies & Frameworks**
-- 📚 Constantly learning and exploring new technologies
-- 🎯 Focused on writing clean, maintainable, and efficient code
-- 🤝 Open to collaboration and knowledge sharing
+I combine **strong software development skills** with **deep computer science fundamentals** and **competitive exam preparation**. My focus on full-stack development, problem-solving, and continuous learning helps me build practical solutions while maintaining a solid theoretical foundation.
+
+- 💻 **Specialized in:** Full Stack MERN Development & Backend (Spring Boot)
+- 🔍 **Expertise in:** Building scalable REST APIs & web applications
+- 📚 **Currently Learning:** GATE CSE topics (OS, DBMS, CN, TOC, Algorithms)
+- 🎯 **Passion:** Writing clean, maintainable, and efficient code
+- 🤝 **Always Open:** To collaboration, learning, and knowledge sharing
 
 ---
 
@@ -45,68 +48,138 @@ I'm a passionate Full Stack Developer with a strong foundation in building scala
 ## 🛠️ Tech Stack
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 ### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-FF6B6B?style=for-the-badge&logo=api&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-FF6B6B?style=for-the-badge&logo=java&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![H2](https://img.shields.io/badge/H2_Database-003D82?style=for-the-badge&logo=database&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
-## 🏆 Key Achievements
+## 🏆 Key Achievements & Certifications
 
-- ✅ Built and deployed multiple full-stack web applications
-- ✅ Collaborated with teams on open-source projects
-- ✅ Strong problem-solving and debugging skills
-- ✅ Committed to writing clean and maintainable code
+- 🥉 **3rd Prize Winner in College Hackathon** — ₹2000 Cash Prize
+- 🎓 **Meta Front-End Developer Professional Certificate** — Meta (Coursera)
+- 📊 **TCS NQT Qualified** — Score: 84% (Very Good)
+- 🏅 **NPTEL Software Engineering Certification** — Successfully Completed
+- 🗣️ **Participant in Youth Parliament** — Active Community Engagement
+- 💪 **3+ Years of Consistent Programming Experience** — Academic & Project-based
 
 ---
 
 ## 📂 Featured Projects
 
-### 1. **Project Name** | [Repository](https://github.com/ShreyanshMishra1202)
-Brief description of your project, technologies used, and key features.
-- **Tech Stack:** React, Node.js, MongoDB
-- **Key Features:** Feature 1, Feature 2, Feature 3
+### 1. **E-Commerce Web Application** | [Frontend](https://github.com/ShreyanshMishra1202/Ecommerce-frontend) | [Backend](https://github.com/ShreyanshMishra1202/E-commerceProject)
 
-### 2. **Another Project** | [Repository](https://github.com/ShreyanshMishra1202)
-Description of another significant project.
-- **Tech Stack:** Next.js, Tailwind CSS, Firebase
-- **Key Features:** Feature 1, Feature 2
+A full-stack e-commerce platform featuring comprehensive product management, user authentication, secure shopping cart functionality, and RESTful APIs with complete CRUD operations.
+
+- **Tech Stack:** React.js, Spring Boot, Java, MySQL/H2, Bootstrap
+- **Key Features:** 
+  - Product catalog with filtering & search
+  - User authentication & authorization
+  - Shopping cart & order management
+  - Admin dashboard for product management
+  - RESTful API design with proper error handling
+
+---
+
+### 2. **Road Accident Data Analysis** | [View Project](https://github.com/ShreyanshMishra1202)
+
+Performed comprehensive exploratory data analysis on road accident datasets to identify trends, accident-prone regions, and key contributing factors using advanced data visualization techniques.
+
+- **Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn
+- **Key Features:**
+  - Statistical analysis & trend identification
+  - Geospatial visualization of accidents
+  - Factor analysis & correlation studies
+  - Data cleaning & preprocessing
+  - Actionable insights generation
+
+---
+
+### 3. **House Price Prediction System** | [View Project](https://github.com/ShreyanshMishra1202)
+
+Built a machine learning model to predict house prices using historical housing data, regression techniques, and feature engineering for accurate price forecasting.
+
+- **Tech Stack:** Python, Scikit-learn, Pandas, NumPy, Matplotlib
+- **Key Features:**
+  - Data preprocessing & feature engineering
+  - Multiple regression models implementation
+  - Model evaluation & performance metrics
+  - Visualization of predictions vs actual values
+  - Hyperparameter tuning
 
 ---
 
 ## 📚 What I'm Currently Learning
 
-- Advanced system design patterns
-- Cloud deployment & DevOps practices
-- Advanced Data Structures & Algorithms
-- Web performance optimization
+- 🎓 **GATE CSE Preparation** — Operating Systems, DBMS, Computer Networks, TOC, Advanced Algorithms
+- 🔧 **Spring Boot & Backend Development** — Advanced patterns, microservices concepts
+- 💾 **Advanced SQL & Database Systems** — Query optimization, indexing, normalization
+- 🏗️ **System Design & Architecture** — Scalable application design principles
 
 ---
 
-## 💡 How I Can Contribute
+## 💡 Skills & Expertise
 
-- 🎨 Full-stack web development
-- 🔧 API design and backend development
-- 📱 Responsive UI/UX implementation
-- 🐛 Problem solving and debugging
-- 📖 Code documentation and best practices
+### Software Development
+- ✅ Full Stack Web Development (MERN + Spring Boot)
+- ✅ RESTful API Design & Development
+- ✅ Database Design & SQL Optimization
+- ✅ Object-Oriented Programming & Design Patterns
+- ✅ Version Control & Git Workflows
+
+### Problem Solving
+- 🎯 Data Structures & Algorithms
+- 🎯 Competitive Programming (Java, Python, C)
+- 🎯 System Design & Architecture
+- 🎯 Debugging & Troubleshooting
+- 🎯 Code Optimization & Performance
+
+### Tools & Methodologies
+- 🛠️ Agile Development Practices
+- 🛠️ API Testing (Postman)
+- 🛠️ Build Tools (Maven)
+- 🛠️ IDE Proficiency (VS Code, IntelliJ IDEA)
+- 🛠️ Documentation & Clean Code Principles
+
+---
+
+## 🎯 Career Aspirations
+
+My goal is to become a proficient **Software Engineer** who can:
+- Design and develop scalable, production-ready applications
+- Contribute to open-source projects
+- Master full-stack development from frontend to backend
+- Excel in GATE CSE and secure opportunities in top tech companies
+- Solve complex real-world problems through innovative software solutions
 
 ---
 
@@ -114,10 +187,12 @@ Description of another significant project.
 
 <div align="center">
 
-[📧 Email](mailto:your.email@gmail.com) • 
-[💼 LinkedIn](https://linkedin.com/in/yourprofile) • 
-[🌐 Portfolio](https://shreyansh.dev) • 
-[🐦 Twitter](https://twitter.com/yourprofile)
+[📧 Email](mailto:shreyanshmishra1202@gmail.com) • 
+[💼 LinkedIn](https://www.linkedin.com/in/shreyansh-mishra-cse/) • 
+[💻 GitHub](https://github.com/ShreyanshMishra1202) • 
+[🐙 Open to Opportunities](mailto:shreyanshmishra1202@gmail.com)
+
+**Feel free to reach out for collaborations, internships, or just to connect!**
 
 </div>
 
@@ -125,17 +200,30 @@ Description of another significant project.
 
 ## 💬 Fun Facts
 
-- 🎮 I love solving algorithmic challenges
-- 🌍 Passionate about open-source contributions
-- ☕ Coffee-driven developer
-- 📖 Always reading tech blogs and documentation
+- 🎮 I love solving algorithmic challenges on LeetCode & HackerRank
+- 🌍 Passionate about open-source contributions & community learning
+- ☕ Coffee-driven developer with a love for debugging
+- 📖 Always reading tech blogs, documentation, and CS fundamentals
+- 🚀 Excited about building projects that make a real-world impact
+
+---
+
+## 📊 Contribution Streak
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShreyanshMishra1202&theme=dark&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&currStreakLabel=58a6ff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9)](https://github.com/ShreyanshMishra1202)
+
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ If you find my work interesting, don't forget to leave a star!
+### ⭐ If you find my work interesting, don't forget to leave a star on my repositories!
 
-![Profile Views](https://komarev.com/ghpvc/?username=ShreyanshMishra1202&color=brightgreen)
+**"Code is like humor. When you have to explain it, it's bad." – Cory House**
+
+![Profile Views](https://komarev.com/ghpvc/?username=ShreyanshMishra1202&color=0077B5)
 
 </div>
