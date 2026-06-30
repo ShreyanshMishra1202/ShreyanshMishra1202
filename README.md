@@ -27,6 +27,24 @@ I combine **strong software development skills** with **deep computer science fu
 
 ---
 
+## 📊 Live GitHub Statistics
+
+<div align="center">
+
+| Metric | Count |
+|--------|-------|
+| 📚 Public Repositories | 39 |
+| ⭐ Total Stars | 0 |
+| 🍴 Total Forks | 0 |
+| 👥 Followers | 2 |
+| 🔗 Following | 9 |
+
+**Last Updated:** `2026-06-30 23:34:05 IST` ⏰
+
+</div>
+
+---
+
 ## 📊 GitHub Activity
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShreyanshMishra1202&theme=github-dark&bg_color=0d1117&color=58a6ff&line=30363d&point=58a6ff&area=true)](https://github.com/ShreyanshMishra1202)
