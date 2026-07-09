@@ -36,10 +36,10 @@ I combine **strong software development skills** with **deep computer science fu
 | 📚 Public Repositories | 39 |
 | ⭐ Total Stars | 0 |
 | 🍴 Total Forks | 0 |
-| 👥 Followers | 2 |
+| 👥 Followers | 3 |
 | 🔗 Following | 9 |
 
-**Last Updated:** `2026-07-08 08:58:30 IST` ⏰
+**Last Updated:** `2026-07-09 09:26:00 IST` ⏰
 
 </div>
 
