@@ -33,13 +33,13 @@ I combine **strong software development skills** with **deep computer science fu
 
 | Metric | Count |
 |--------|-------|
-| 📚 Public Repositories | 41 |
+| 📚 Public Repositories | 43 |
 | ⭐ Total Stars | 0 |
 | 🍴 Total Forks | 0 |
 | 👥 Followers | 3 |
 | 🔗 Following | 9 |
 
-**Last Updated:** `2026-08-31 10:32:46 IST` ⏰
+**Last Updated:** `2026-09-01 10:10:40 IST` ⏰
 
 </div>
 
